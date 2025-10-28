@@ -244,7 +244,7 @@ referencing==0.35.1
     #   jsonschema
     #   jsonschema-specifications
     #   jupyter-events
-requests==2.32.3
+requests==2.32.4
     # via
     #   jupyterhub
     #   jupyterlab-server
