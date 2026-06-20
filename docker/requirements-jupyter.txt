@@ -137,7 +137,7 @@ jupyter-server-terminals==0.5.3
     # via jupyter-server
 jupyterhub==5.4.5
     # via -r requirements.in
-jupyterlab==4.5.7
+jupyterlab==4.5.9
     # via -r requirements.in
 jupyterlab-pygments==0.3.0
     # via nbconvert
