@@ -223,7 +223,7 @@ pygments==2.18.0
     # via
     #   ipython
     #   nbconvert
-pyopenssl==24.2.1
+pyopenssl==26.0.0
     # via certipy
 python-dateutil==2.9.0.post0
     # via
