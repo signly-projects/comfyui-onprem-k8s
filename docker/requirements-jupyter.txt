@@ -219,7 +219,7 @@ pydantic==2.8.2
     # via jupyterhub
 pydantic-core==2.20.1
     # via pydantic
-pygments==2.18.0
+pygments==2.20.0
     # via
     #   ipython
     #   nbconvert
