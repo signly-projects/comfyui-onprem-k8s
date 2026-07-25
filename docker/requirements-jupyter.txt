@@ -205,7 +205,7 @@ prometheus-client==0.20.0
     #   jupyterhub
 prompt-toolkit==3.0.47
     # via ipython
-psutil==6.0.0
+psutil==7.2.2
     # via ipykernel
 ptyprocess==0.7.0
     # via
