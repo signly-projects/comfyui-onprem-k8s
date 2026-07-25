@@ -331,7 +331,7 @@ webencodings==0.5.1
     # via
     #   bleach
     #   tinycss2
-websocket-client==1.8.0
+websocket-client==1.9.0
     # via jupyter-server
 
 # The following packages are considered to be unsafe in a requirements file:
