@@ -65,7 +65,7 @@ greenlet==3.0.3
     # via sqlalchemy
 h11==0.16.0
     # via httpcore
-httpcore==1.0.5
+httpcore==1.0.9
     # via httpx
 httpx==0.27.0
     # via jupyterlab
