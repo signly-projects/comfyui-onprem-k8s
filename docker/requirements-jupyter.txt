@@ -4,7 +4,7 @@
 #
 #    Use the "Run workflow" button at https://github.com/jupyterhub/zero-to-jupyterhub-k8s/actions/workflows/watch-dependencies.yaml
 #
-alembic==1.13.2
+alembic==1.18.5
     # via jupyterhub
 annotated-types==0.7.0
     # via pydantic
