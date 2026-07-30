@@ -234,7 +234,7 @@ python-json-logger==2.0.7
     # via jupyter-events
 pyyaml==6.0.3
     # via jupyter-events
-pyzmq==26.0.3
+pyzmq==27.1.0
     # via
     #   ipykernel
     #   jupyter-client
